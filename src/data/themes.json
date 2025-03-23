@@ -1,6 +1,6 @@
 [
     {
-        "name": "Light",
+        "name": "Skibidi Theme",
         "schedule": "always",
         "suggestedColor": "#1b5e20",
         "background": "white",
@@ -14,7 +14,7 @@
         "iconTextCardInvertColor": "var(--color)"
     },
     {
-        "name": "Dark",
+        "name": "Sigma",
         "schedule": "always",
         "suggestedColor": "#b38825",
         "background": "#23272a",
@@ -28,7 +28,7 @@
         "iconTextCardInvertColor": "white"
     },
     {
-        "name": "Fall",
+        "name": "awdqwd",
         "schedule": "9/28/2024-12/1/2024",
         "message": "[Try] The New Fall Theme 🍁",
         "suggestedColor": "#d26f1e",
@@ -211,7 +211,7 @@
         "iconTextCardInvertColor": "var(--color)"
     },
     {
-        "name": "Minecraft",
+        "name": "OwO",
         "schedule": "1/12/2023-9/22/2025",
         "message": "The new Minecraft wallpaper created by Dan Rybin!",
         "suggestedColor": "#1b5e20",
