@@ -1,15 +1,15 @@
 [
     {
-        "name": "Winter",
+        "name": "NewJeans",
         "suggestedColor": "#02647a",
         "background": "#f2fcff",
-        "secondaryBackground": "white",
-        "headerBackgroundColor": "#c3e3f5",
+        "secondaryBackground": "green",
+        "headerBackgroundColor": "#47802d",
         "headerScheduleBackgroundColor": "var(--background)",
         "schedule": "",
-        "primary": "#02647a",
-        "secondary": "#02647a",
-        "tertiary": "#02647a",
+        "primary": "#027a34",
+        "secondary": "#027a34",
+        "tertiary": "#027a34",
         "iconTextCardColor": "white",
         "iconTextCardInvertColor": "var(--color)"
     }
