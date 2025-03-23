@@ -227,6 +227,7 @@
     },
     {
         "name": "NewJeans",
+        "schedule": "always",
         "suggestedColor": "#02647a",
         "background": "#f2fcff",
         "secondaryBackground": "green",
